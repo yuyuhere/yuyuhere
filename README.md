@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 <!--
-**yuyuhere/yuyuhere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-Here are some ideas to get you started:
+**yuyuhere/yuyuhere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+Here are some ideas to get you started:-->
 
 - 🔭 I’m currently persuing my degree in Bachelor Informations System (Honor) Information System Engineering.
 - 🌱 I’m currently learning Enterprise Programming
